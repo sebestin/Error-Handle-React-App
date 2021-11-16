@@ -1,0 +1,19 @@
+.input{
+    margin:32px auto;
+    padding: 16px;
+    width:90%;
+    max-width:640px;
+}
+.input label{
+    display:block;
+    font-weight:bold;
+    margin-bottom: 8px;
+}
+.input input{
+    font: inherit;
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 2.4px;
+    margin-bottom: 8px;
+}
